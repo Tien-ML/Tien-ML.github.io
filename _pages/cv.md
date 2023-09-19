@@ -9,51 +9,119 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<!-- Education
+====== -->
+<h2 style="color:#87CEEB">Education</h2>
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Hanoi University of Science and Technology (HUST) | 2018-2020**   
+*Master in Materials Science*
+  * Thesis: Investigation the magnetoelectric effect on the nanocomposite ferroelectric/ferromagnetic
+  * Advisor: Associate Prof. Le Van Lich
+  * GPA: 4.00/4.00, graduated with Excellent Degree
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Hanoi University of Science and Technology (HUST) | 2015-2020**   
+*Bachelor in Materials Science*
+  * Thesis: Designing a small continuous steel mill with a capacity of 60,000 tons/year, counting
+for D16 steel rolling technology. Topic: endless welding rolling technology
+  * Thesis advisor: Dr. Do Thanh Dung
+  * GPA: 3.38/4.00, graduated with Very Good Degree
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<!-- Research experience
+====== -->
+<h2 style="color:#87CEEB">Research experience</h2>
+<hr>
+
+**Freelance Researcher | 2020-present**   
+  * Research Topic: Multi-scale simulation in materials science
+
+**Master research student | 2018 - 2020**   
+*Computational Materials Science Lab, Vietnam *
+  * Supervisor: Le Van Lich
+  * Research Topic: Magnetoelectric effect in ferroelectric/ferromagnetic nanocomposites
+
+
+
+<!-- Publications
+====== -->
+<h2 style="color:#87CEEB">Publications</h2>
+<hr>
+
+<!--**ClimaX: A Foundation Model for Weather and Climate**   
+*__Tung Nguyen__, Johannes Brandstetter, Ashish Kapoor, Jayesh K. Gupta\*, Aditya Grover\**   
+International Conference on Machine Learning (ICML), 2023.   
+<span style="color:#AA4A44">Best Paper at ICML Workshop on Synergy of Scientific and Machine Learning Modeling, Spotlight Oral at ICLR Workshop on AI and Climate Change</span>.
+
+**Transformer Neural Processes: Uncertainty-Aware Meta Learning Via Sequence Modeling**   
+*__Tung Nguyen__, Aditya Grover*   
+International Conference on Machine Learning (ICML), 2022.
+
+**Temporal Predictive Coding for Model-based Planning in Latent Space**   
+*__Tung Nguyen\*__, Rui Shu\*, Tuan Pham\*, Hung H. Bui, Stefano Ermon*   
+International Conference on Machine Learning (ICML), 2021.
+
+**Predictive Coding for Locally-Linear Control**   
+*Rui Shu\*, **Tung Nguyen\***, Yinlam Chow, Tuan Pham, Khoat Than, Mohammad Ghavamzadeh, Stefano Ermon, Hung H. Bui*   
+International Conference on Machine Learning (ICML), 2020.
+
+**Infinite Dropout for training Bayesian models from data streams**   
+*Son Nguyen, **Tung Nguyen**, Linh Ngo, Khoat Than*   
+IEEE International Conference on Big Data (Big Data), 2019. -->
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+
+<!-- Honors and Awards
+====== -->
+<h2 style="color:#87CEEB">Honors and Awards</h2>
+<hr>
+
+**Master Student Scholarship | 2019**   
+*Hanoi University of Science and Technology ,HUST*   
+
+
+**DENSO Company Scholarship for Excellent Student | 2019**   
+*Hanoi University of Science and Technology, HUST*   
+
+
+**The Excellence Scholarship - Level A | 2017**   
+*Hanoi University of Science and Technology, HUST*   
+Each semester top 5% of students with greatest academic performance are awarded.
+
+<!-- **Sakura Science Plan Scholarship | 2019**   
+*National Institute of Informatics (NII), Japan*   
+I joined Prof. Ryutaro Ichise’s lab and worked closely with Nicolas Bougie, his PhD student, to get hands-on research experience in deep reinforcement learning.
+
+** DENSO Company Scholarship for Excellent Student | 2019**   
+*School of Computing (SoC), Korea Advanced Institute of Science and Technology (KAIST)*   
+30 undergraduate students were selected among over 4000 applicants to visit the graduate school, get to known different laboratories and attend technical talks.
+
+**The Excellence Scholarship - Level A | 2017**   
+*School of Information and Communication Technology, HUST*   
+Each semester top 5% of students with greatest academic performance are awarded. -->
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<!-- Other Activities
+====== -->
+<h2 style="color:#87CEEB">Academic Services</h2>
+<hr>
+
+**Technical Talk | 2020**   
+*The Joint 5th International Symposium on Frontiers in Materials Science & 3rd International Symposium on Nano-materials, Technology and Applications (FMSNANOMATA 2019) - website: [http://uet.vnu.edu.vn/~nhathn/fms2019/)*
+  * Present the work Large magnetoelectric effect in compositionally graded ferroelectric-ferromagnetic nanocomposites: An improved phase-field model.
+
+
+<!-- Technical Skills
+====== -->
+<h2 style="color:#87CEEB">Technical Skills</h2>
+<hr>
+
+  * **Programming Languages:** Python, C++, FORTRAN
+  * **Programs:** ABAQUS, Illustrator, Latex
+
+
+<!-- Certificates
+====== -->
+<h2 style="color:#87CEEB">Certificates</h2>
+<hr>
+
+**IELTS:** 6.0 Overall, 7.0 Reading, 5.0 Listening, 6.5 Writing, 5.0 Speaking
