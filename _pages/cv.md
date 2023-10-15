@@ -19,7 +19,7 @@ redirect_from:
   * Advisor: Associate Prof. Le Van Lich
   * GPA: 4.00/4.00, graduated with Excellent Degree
 
-**Hanoi University of Science and Technology (HUST) | 2015-2020**   
+**Hanoi University of Science and Technology (HUST) | 2015-2018**   
 *Bachelor in Materials Science*
   * Thesis: Designing a small continuous steel mill with a capacity of 60,000 tons/year, counting
 for D16 steel rolling technology. Topic: endless welding rolling technology
