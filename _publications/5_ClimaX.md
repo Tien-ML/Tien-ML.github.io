@@ -1,9 +1,9 @@
 ---
-title: "The origin of piezoelectric enhancement in compositionally graded ferroelectrics with sinusoidal variation"
+title: "Tăng cường hiệu ứng từ-điện trong nanocomposite sắt điện/sắt từ Pb(1−x)SrxTiO3/CoFe2O4 có thành phần vật liệu biến thiên"
 collection: publications
-permalink: /publications/ClimaX
-venue: "Applied Physics Letters, 2022."
-authors: '<b>Minh-Tien Le</b>, Phuong-Linh Do, Van-Tuan Le, Dang Thi Hong Hue, Van-Hai Dinh, Trong-Giang Nguyen, Le Van Lich'
-paper: "https://pubs.aip.org/aip/apl/article-abstract/121/16/162905/2834481/The-origin-of-piezoelectric-enhancement-in?redirectedFrom=fulltext"
+permalink: /publications/6_domestic
+venue: "JST: Engineering and Technology for Sustainable Development, 2021."
+authors: '<b>Minh-Tien Le</b>, Le Van Lich, Van-Hai Dinh, Trong-Giang Nguyen'
+paper: "https://ojs.hust.edu.vn/SendArticle/DownLoadArticle.aspx?ID=sJln8CWswJlgdRhlBArr24oP2Sz0mQ/daMuf3ec5N4pIpDBpdzD9H6xG7/5cGC9R/OHFjpeExp5Z4lcy18HJcUlgFbG%3DVyamcAYKi4EYclKcucqtMJNWsG53AHFHnKqK4WsgUAYhtM7bzcGS6JUrxUdpyjG6DDp2qcCLvtVi8IS9b3pUmSUC9M%3DuqNMNwYLG"
 
 ---
