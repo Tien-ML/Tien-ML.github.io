@@ -32,7 +32,7 @@ for D16 steel rolling technology. Topic: endless welding rolling technology
 <hr>
 
 **Research Assistant | 2024-present**
-*Photonics for optoelectrics and biosensors Laboratory, VinUniversity, Vietnam *
+*Photonics for optoelectrics and biosensors Laboratory, VinUniversity, Vietnam*
   * Supervisor: Le Van-Quynh
   * Research Topic: Modelling photonics for optoelectrics
 
@@ -40,9 +40,11 @@ for D16 steel rolling technology. Topic: endless welding rolling technology
 *Computational Materials Science Lab, Vietnam*
   * Research Topic: Multi-scale simulation in materials science
   * Supervisor: Le Van-Quynh
+  * 
 **Research Assistant | 2021-2022**
 *Computational Mechanics Group, University of Pittsburgh, US*
   * Supervisor: Prof. Albert To
+  * 
 **Master research student | 2018 - 2020**   
 *Computational Materials Science Lab, Vietnam*
   * Supervisor: Le Van Lich
