@@ -45,6 +45,7 @@ for D16 steel rolling technology. Topic: endless welding rolling technology
 *Computational Mechanics Group, University of Pittsburgh, US*
   * Supervisor: Prof. Albert To
   * Research Topic: Multi-scale simulation in additive manufacturing
+
 **Master research student | 2018 - 2020**   
 *Computational Materials Science Lab, Vietnam*
   * Supervisor: Le Van Lich
