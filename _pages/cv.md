@@ -38,13 +38,13 @@ for D16 steel rolling technology. Topic: endless welding rolling technology
 
 **Researcher | 2020-2021, 2022-2024**   
 *Computational Materials Science Lab, Vietnam*
+  * Supervisor: Le Van Lich
   * Research Topic: Multi-scale simulation in materials science
-  * Supervisor: Le Van-Quynh
-  * 
+ 
 **Research Assistant | 2021-2022**
 *Computational Mechanics Group, University of Pittsburgh, US*
   * Supervisor: Prof. Albert To
-  * 
+  * Research Topic: Multi-scale simulation in additive manufacturing
 **Master research student | 2018 - 2020**   
 *Computational Materials Science Lab, Vietnam*
   * Supervisor: Le Van Lich
