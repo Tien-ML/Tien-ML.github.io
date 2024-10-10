@@ -24,14 +24,17 @@ redirect_from:
   * Thesis: Designing a small continuous steel mill with a capacity of 60,000 tons/year, counting
 for D16 steel rolling technology. Topic: endless welding rolling technology
   * Thesis advisor: Dr. Do Thanh Dung
-  * GPA: 3.38/4.00, graduated with Very Good Degree
+  * GPA: 3.38/4.00, graduated with Very Good Degree (top 2%)
 
 <!-- Research experience
 ====== -->
 <h2 style="color:#87CEEB">Research experience</h2>
 <hr>
-
-**Freelance Researcher | 2020-present**   
+**Research Assistant | 2024-present**
+*Photonics for optoelectrics and biosensors Laboratory, VinUniversity, Vietnam *
+  * Research Topic: Modelling photonics for optoelectrics
+** Researcher | 2020-2021, 2022-2024**   
+*Computational Materials Science Lab, Vietnam *
   * Research Topic: Multi-scale simulation in materials science
 
 **Master research student | 2018 - 2020**   
