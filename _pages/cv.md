@@ -128,7 +128,7 @@ Each semester top 5% of students with greatest academic performance are awarded.
 <hr>
 
   * **Programming Languages:** Python, C++, FORTRAN
-  * **Programs:** ABAQUS, Illustrator, Latex
+  * **Programs:** ABAQUS, Illustrator, Latex, Tidy3D
 
 
 <!-- Certificates
@@ -136,4 +136,4 @@ Each semester top 5% of students with greatest academic performance are awarded.
 <h2 style="color:#87CEEB">Certificates</h2>
 <hr>
 
-**IELTS:** 6.0 Overall, 7.0 Reading, 5.0 Listening, 6.5 Writing, 5.0 Speaking
+**IELTS:** 7.0 Overall, 8.0 Reading, 7.5 Listening, 6.0 Writing, 6.0 Speaking
